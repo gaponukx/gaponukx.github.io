@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.91ac96d7.css",
-    "main.js": "/static/js/main.c7a33b78.js",
+    "main.js": "/static/js/main.69b558ef.js",
     "static/media/Sky_Bus.png": "/static/media/Sky_Bus.af52c0730a0ea66848c4.png",
     "static/media/test3.jpg": "/static/media/test3.3fa8c1b42d0257c6bdc9.jpg",
     "static/media/test2.jpg": "/static/media/test2.30f348d1f6e3495023b0.jpg",
@@ -13,10 +13,10 @@
     "static/media/ticket.png": "/static/media/ticket.7d8f3b86ccb941b9113f.png",
     "index.html": "/index.html",
     "main.91ac96d7.css.map": "/static/css/main.91ac96d7.css.map",
-    "main.c7a33b78.js.map": "/static/js/main.c7a33b78.js.map"
+    "main.69b558ef.js.map": "/static/js/main.69b558ef.js.map"
   },
   "entrypoints": [
     "static/css/main.91ac96d7.css",
-    "static/js/main.c7a33b78.js"
+    "static/js/main.69b558ef.js"
   ]
 }
