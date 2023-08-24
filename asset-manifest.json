@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91ac96d7.css",
+    "main.js": "/static/js/main.c7a33b78.js",
+    "static/media/Sky_Bus.png": "/static/media/Sky_Bus.af52c0730a0ea66848c4.png",
+    "static/media/test3.jpg": "/static/media/test3.3fa8c1b42d0257c6bdc9.jpg",
+    "static/media/test2.jpg": "/static/media/test2.30f348d1f6e3495023b0.jpg",
+    "static/media/test1.jpg": "/static/media/test1.52d20ba3f931e9d16d54.jpg",
+    "static/media/Logo.png": "/static/media/Logo.cfa09f29a2084b09cc34.png",
+    "static/media/chat.png": "/static/media/chat.32ee47ae5636df13cf2a.png",
+    "static/media/worldwide.png": "/static/media/worldwide.835418a674a8c649c66a.png",
+    "static/media/checked.png": "/static/media/checked.6f298cca57a5a8b36055.png",
+    "static/media/ticket.png": "/static/media/ticket.7d8f3b86ccb941b9113f.png",
+    "index.html": "/index.html",
+    "main.91ac96d7.css.map": "/static/css/main.91ac96d7.css.map",
+    "main.c7a33b78.js.map": "/static/js/main.c7a33b78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ac96d7.css",
+    "static/js/main.c7a33b78.js"
+  ]
+}
